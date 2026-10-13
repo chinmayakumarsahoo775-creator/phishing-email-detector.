@@ -1,0 +1,21 @@
+email,label
+"Your account is suspended. Click here to verify your password immediately.",Phishing
+"Congratulations! You won a prize. Claim it now at http://claim-prize.example.",Phishing
+"Urgent: Your bank account will be blocked. Confirm your login details.",Phishing
+"Your parcel is waiting. Pay a small fee using this link to receive it.",Phishing
+"Verify your account now to avoid permanent suspension.",Phishing
+"You have won a gift card. Click here to claim your reward.",Phishing
+"Your mailbox is full. Enter your password to increase storage.",Phishing
+"Unusual activity detected. Sign in immediately to secure your account.",Phishing
+"Update your payment information to prevent account closure.",Phishing
+"Claim your refund now. Provide your banking details.",Phishing
+"Hi team, please find the meeting agenda attached for tomorrow.",Safe
+"Thank you for your purchase. Your order confirmation is attached.",Safe
+"Reminder: Our project meeting starts at 10 AM on Monday.",Safe
+"Hello, I have shared the class notes for this semester.",Safe
+"Your library book is due next Friday. Please return it on time.",Safe
+"Thank you for attending today's training session.",Safe
+"Please review the assignment and send your feedback.",Safe
+"Your monthly electricity bill is available in your account.",Safe
+"The college event will take place in the auditorium tomorrow.",Safe
+"Here is the report we discussed during our meeting.",Safe
